@@ -1,0 +1,9 @@
+{
+  "name": "Kalkulator Status Gizi Anak",
+  "short_name": "Gizi Anak",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ff8c2b",
+  "icons": []
+}
